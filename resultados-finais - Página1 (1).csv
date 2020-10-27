@@ -1,0 +1,21 @@
+Questão,Tipo de Erro,Ocorrência
+merge_invertido,Conhecimento,1
+merge_invertido,Habilidade,3
+merge_invertido,Regra,19
+merge_invertido,Compreensão,5
+merge_invertido,Nenhum,5
+squeeze,Conhecimento,4
+squeeze,Habilidade,0
+squeeze,Regra,8
+squeeze,Compreensão,11
+squeeze,Nenhum,14
+square_code,Conhecimento,0
+square_code,Habilidade,5
+square_code,Regra,3
+square_code,Compreensão,4
+square_code,Nenhum,2
+pares_palavras,Conhecimento,1
+pares_palavras,Habilidade,0
+pares_palavras,Regra,0
+pares_palavras,Compreensão,4
+pares_palavras,Nenhum,12
